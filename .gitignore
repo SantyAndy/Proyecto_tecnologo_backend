@@ -1,0 +1,15 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.vscode/
+.env
+db.sqlite3
+
+# Fotos que suben los usuarios (privadas) y archivos generados
+media/diagnosticos/
+staticfiles/
